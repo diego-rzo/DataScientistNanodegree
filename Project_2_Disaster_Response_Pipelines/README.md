@@ -1,5 +1,5 @@
 # Project 2: Disaster Response Pipelines.
-This is a machine learning pipeline to categorize disaster messages by category.
+This is a machine learning pipeline to classify disaster messages by category.
 
 ## Libraries:
 - pandas
