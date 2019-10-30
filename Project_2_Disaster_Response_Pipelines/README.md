@@ -1,12 +1,23 @@
 # Project 2: Disaster Response Pipelines.
-You will be creating a machine learning pipeline to categorize these events so that you can send the messages to an appropriate disaster relief agency.
+This is a machine learning pipeline to categorize disaster messages by category.
 
 ## Libraries:
-- Pandas
-- Matplotlib
+- pandas
+- matplotlib
+- plotly
+- json
+- nltk
+- flask
+- sklearn
+- sqalchemy
+- numpy
+- sqlite3
+- pickle
 
 ## Files:
-- **ETL Pipeline Preparation.ipynb**: Guide to create the ETL Pipeline script in python.
-- **ML Pipeline Preparation.ipynb**: Guide to create the ML Pipeline script in python.
-
+- **ETL_Pipeline_Preparation.ipynb**: Guide to create the ETL Pipeline script in python for the web app.
+- **ML_Pipeline_Preparation.ipynb**: Guide to create the ML Pipeline script in python for the web app.
+- **categories.csv**: Table containing the categories asociated to the messages used to the creation of the ETL Pipeline.
+- **messages.csv**: Table containing the messages used to the creation of the ETL Pipeline.
+- **disaster_response_pipeline_project/**: Folder containing the web app. There is a specific README inside the folder with a description of the files.
 
