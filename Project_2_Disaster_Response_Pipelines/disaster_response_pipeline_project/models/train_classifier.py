@@ -62,6 +62,13 @@ def build_model():
 
 def evaluate_model(model, X_test, Y_test, category_names):
     y_pred = model.predict(X_test)
+    reports = []
+    for i in range(y_pred.shape[1]):
+        reports.append(classification_report(Y_test.iloc[:, i].values.tolist(), list(y_pred[:, i]), output_dict=True))
+    for i in range(36):
+        print('============')
+        print(df.columns.values.tolist()[4:][i])
+        print(reports[i]['0'])
 
 
 def save_model(model, model_filepath):
