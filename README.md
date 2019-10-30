@@ -7,4 +7,4 @@ In this project we will investigate a database containing several details about 
 The main goal is to apply CRISP-DM to the database analysis and write a blog post with the main findings.
 
 - [**Project 2: Disaster Response Pipeline.**](https://github.com/diego-rzo/DataScientistNanodegree/tree/master/Project_2_Disaster_Response_Pipelines)
-On going project.
+This is a machine learning pipeline to classify disaster messages by category.
