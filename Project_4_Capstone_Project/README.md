@@ -1,4 +1,4 @@
-# Project 6: Starbucks Project.
+# Project 4: Starbucks Project.
 This project aims to process the Starbucks data set in order to provide improvements to the customers offerings.
 
 ## Libraries:
