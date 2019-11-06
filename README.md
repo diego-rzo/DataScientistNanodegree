@@ -9,5 +9,5 @@ The main goal is to apply CRISP-DM to the database analysis and write a blog pos
 - [**Project 2: Disaster Response Pipeline.**](https://github.com/diego-rzo/DataScientistNanodegree/tree/master/Project_2_Disaster_Response_Pipelines)
 This is a machine learning pipeline to classify disaster messages by category.
 
-- [**Project 6: Capstone_Project.**](https://github.com/diego-rzo/DataScientistNanodegree/tree/master/Project_6_Capstone_Project)
+- [**Project 4: Capstone_Project.**](https://github.com/diego-rzo/DataScientistNanodegree/tree/master/Project_6_Capstone_Project)
 This project aims to process the Starbucks data set in order to provide improvements to the customers offerings.
